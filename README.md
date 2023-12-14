@@ -1,5 +1,7 @@
 # Rate Distortion in Cognitive Psychology
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dalejn/rateDistortion/HEAD)
+
 R package: https://rdrr.io/cran/RateDistortion/
 
 Code and data from Sims, C. R. (2018). Efficient coding explains the universal law of generalization in human perception. Science, 360(6389), 652-656.
@@ -17,4 +19,3 @@ Experimental data from:
 * R. M. Nosofsky, Attention and learning processes in the identification and * categorization of integral stimuli. Journal of Experimental Psychology: Learning, * Memory, and Cognition, 13(1), 87–108 (1987).
 * J. M. Grey, Multidimensional perceptual scaling of musical timbres. Journal of the * Acoustical Society of America, 61(5), 1270–1277 (1977).
 * J. N. Rouder, R. D. Morey, N. Cowan, M. Pealtz, Learning in a unidimensional absolute * identification task. Psychonomic Bulletin & Review, 11(5), 938–944 (2004).
-
