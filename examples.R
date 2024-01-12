@@ -1,5 +1,7 @@
 install.packages("RateDistortion")
-libary(RateDistortion)
+library(RateDistortion)
+install.packages("numDeriv")
+library(numDeriv)
 
 # Define a discretized Gaussian information source
 x <- seq(from = -10, to = 10, length.out = 100)

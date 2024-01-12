@@ -30,6 +30,8 @@
 ## mu: The mean of the Laplace approximation to the posterior distribution
 ## sigma: The covariance matrix of the Laplace approximation to the posterior
 
+setwd("/home/jovyan/DataArchive/")
+
 ##********************************************************************************
 ## Data handling
 ##********************************************************************************
@@ -56,7 +58,7 @@ all.files <- c("Ashby-01",
 ## Scripts
 ##********************************************************************************
 
-Run <- function(safe.mode = TRUE, verbose = FALSE) {
+Run <- function(safe.mode = TRUE, verbose = TRUE) {
 
     models <- c("Full")
     attempts <- 3
